@@ -7,4 +7,4 @@
     - name: Create a password for user debian
       user:
         name: debian
-        password: '55dedd5adf3b7641f457b2c94d93f590c3e952de4635a1f832facd0564f75a1a87e50b32e58ffad8e2508f6155f057dc5eed58c1ca615a73b1a13cc7f8df8761'
+        password: '$6$rounds=4096$QwsXESlF0BQB00sG$oKVvGc5d4kdJDuCS2N4t/lxXa5OOpOj7/u5zDTDp45oGNamUhRO0EbjjEjFBnqMlI1zQ0Rwlt.XYHA/mnVQRM0.'
